@@ -42,7 +42,7 @@ class _CategoryNewsState extends State<CategoryNews> {
               'Fresh ${widget.category}',
               style: const TextStyle(color: Colors.black),
             ),
-            Text(
+            const Text(
               ' News',
               style: TextStyle(color: Colors.pink),
             )
